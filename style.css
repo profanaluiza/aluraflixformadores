@@ -1,7 +1,7 @@
 body{
     background-color: rgb(70, 4, 50);
     color: rgb(223, 160, 223);
-    font-family: sans-serif;
+    font-family: "Nosifer", sans-serif;
 }
 
 .chamada{
@@ -27,3 +27,4 @@ display: flex;
 overflow-x:auto;
 gap: 20px;
 }
+
